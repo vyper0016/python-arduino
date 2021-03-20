@@ -72,4 +72,4 @@ async def thi(ctx):
         await ctx.send('Turned Off')
 
 
-client.run('NzM1NTg1MTc2NTg3MDc1NTk0.Xxiaow.wJIMW8bVSEFgHQFBcCUSLc9Cfd8')
+client.run('')
